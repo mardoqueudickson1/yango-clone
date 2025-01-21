@@ -1,40 +1,35 @@
-Yango Clone - Aplicativo de Táxi
+## Yango Clone - Aplicativo de Táxi
 
-Descrição
+## Descrição
 
 Este é um projeto de clone do aplicativo Yango, um serviço de transporte por aplicativo popular em Angola. O objetivo é criar um sistema funcional que permita aos usuários solicitar viagens, acompanhar motoristas em tempo real e gerenciar pagamentos de forma simples e eficiente.
 
-Funcionalidades
+## Funcionalidades
 
-Cadastro e Login: Usuários podem se registrar e fazer login usando e-mail, telefone ou redes sociais.
+- Cadastro e Login: Usuários podem se registrar e fazer login usando e-mail, telefone ou redes sociais.
 
-Solicitação de Viagem: Escolha de ponto de partida e destino com sugestões automáticas.
+- Solicitação de Viagem: Escolha de ponto de partida e destino com sugestões automáticas.
 
-Mapa Interativo: Visualização em tempo real da localização do motorista.
+- Mapa Interativo: Visualização em tempo real da localização do motorista.
 
-Cálculo de Tarifas: Estimativa automática do preço da corrida antes da confirmação.
+- Cálculo de Tarifas: Estimativa automática do preço da corrida antes da confirmação.
 
-Histórico de Corridas: Registro das viagens realizadas.
+- Histórico de Corridas: Registro das viagens realizadas.
 
-Métodos de Pagamento: Pagamentos via dinheiro, cartão de crédito ou carteira digital.
+- Métodos de Pagamento: Pagamentos via dinheiro, cartão de crédito ou carteira digital.
 
-Sistema de Avaliação: Usuários podem avaliar motoristas e vice-versa.
+- Sistema de Avaliação: Usuários podem avaliar motoristas e vice-versa.
 
-Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
-Frontend: React Native / Flutter
-
-Backend: Node.js / Django com REST API
-
-Banco de Dados: PostgreSQL / Firebase
-
-Mapas e Geolocalização: Google Maps API / OpenStreetMap
-
-Autenticação: Firebase Auth / OAuth
+- Mobile: React Native
+- Banco de Dados:  Firebase
+- Mapas e Geolocalização: Google Maps API
+- Autenticação: Firebase Auth / OAuth
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+## Instalação e Configuração
 
 1. Install dependencies
 
